@@ -1,0 +1,10 @@
+.plus-sel{
+	background: #EAFAFF;
+	color: #4E5E6D;
+	border: solid 1px #8DACB7;
+	font-size: 11px;
+	background-image: url('bullet-toggle-plus-icon.png');
+	background-repeat: no-repeat ;
+	background-position: -4px -6px;
+	padding-left: 25px;
+}
